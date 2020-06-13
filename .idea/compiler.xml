@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="myshop-commons-mapper" />
+        <module name="myshop-databases" />
+        <module name="myshop-static-backend" />
+        <module name="myshop-commons" />
+        <module name="myshop-commons-domain" />
+        <module name="myshop-commons-mapper (2)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="myshop-commons" target="1.8" />
+      <module name="myshop-commons-domain" target="1.8" />
+      <module name="myshop-commons-mapper" target="1.8" />
+      <module name="myshop-commons-mapper (1)" target="1.8" />
+      <module name="myshop-commons-mapper (2)" target="1.8" />
+      <module name="myshop-databases" target="1.8" />
+      <module name="myshop-dependencies" target="1.8" />
+      <module name="myshop-static-backend" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="myshop-commons" options="-parameters" />
+      <module name="myshop-commons-domain" options="-parameters" />
+      <module name="myshop-commons-mapper" options="-parameters" />
+      <module name="myshop-commons-mapper (1)" options="-parameters" />
+      <module name="myshop-commons-mapper (2)" options="-parameters" />
+      <module name="myshop-databases" options="-parameters" />
+      <module name="myshop-static-backend" options="-parameters" />
+    </option>
+  </component>
+</project>

@@ -3,6 +3,13 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/microsevice-shop.iml" filepath="$PROJECT_DIR$/.idea/microsevice-shop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myshop-commons/myshop-commons.iml" filepath="$PROJECT_DIR$/myshop-commons/myshop-commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myshop-commons-domain/myshop-commons-domain.iml" filepath="$PROJECT_DIR$/myshop-commons-domain/myshop-commons-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myshop-commons-mapper/myshop-commons-mapper.iml" filepath="$PROJECT_DIR$/myshop-commons-mapper/myshop-commons-mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myshop-commons-mapper/myshop-commons-mapper (2).iml" filepath="$PROJECT_DIR$/myshop-commons-mapper/myshop-commons-mapper (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/myshop-databases/myshop-databases.iml" filepath="$PROJECT_DIR$/myshop-databases/myshop-databases.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myshop-dependencies/myshop-dependencies.iml" filepath="$PROJECT_DIR$/myshop-dependencies/myshop-dependencies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myshop-static-backend/myshop-static-backend.iml" filepath="$PROJECT_DIR$/myshop-static-backend/myshop-static-backend.iml" />
     </modules>
   </component>
 </project>
